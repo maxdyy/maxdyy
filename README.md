@@ -28,5 +28,5 @@ Currently at [Portaltech Reply](https://github.com/portaltech-it) working on a h
 ### My GitHub stats &nbsp;🥇
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxdyy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxdyy&hide=php,html&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxdyy&hide=php,html&layout=compact&theme=tokyonight" style="border:transparent">
 
