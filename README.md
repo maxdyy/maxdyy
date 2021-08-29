@@ -1,4 +1,4 @@
-### Maksym Dmukhovskyy - Lead FE Developer 👋
+### Maksym Dmukhovskyy - Lead Front End Developer 👋
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxdyy/)
 [![](https://img.shields.io/badge/MAXDYY.COM-202020?style=for-the-badge&logo)](https://maxdyy.com/)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maxdyy)
@@ -10,7 +10,7 @@
 ---
 
 Hey! My name is **Maksym Dmukhovskyy** - [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet):`mɑːksim dmukovski`, or just **Max** &nbsp;😄  
-I'm a Lead FE Dev working in **Milan, Italy** 🇮🇹  
+I'm a Lead Front End Developer working in **Milan, Italy** 🇮🇹  
 Currently at [Portaltech Reply](https://github.com/portaltech-it) I'm working on a huge e-commerce project &nbsp;👀 &nbsp;🔥
 
 <br>
