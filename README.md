@@ -9,7 +9,7 @@
 
 ---
 
-Hey! My name is **Maksym Dmukhovskyy** - [AFI](https://it.wikipedia.org/wiki/Alfabeto_fonetico_internazionale):`mɑːksim dmukovski`, or just **Max** &nbsp;😄  
+Hey! My name is **Maksym Dmukhovskyy** - [AFI](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet):`mɑːksim dmukovski`, or just **Max** &nbsp;😄  
 I'm a Lead FE Dev living and working **Milan - Como, Italy** 🇮🇹  
 Currently at [Portaltech Reply](https://github.com/portaltech-it) working on a huge e-commerce project &nbsp;👀 &nbsp;🔥
 
