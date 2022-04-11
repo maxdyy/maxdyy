@@ -5,8 +5,6 @@
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxdyy)
 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=maxdyy.maxdyy)  
-
 ---
 
 Hey! My name is **Maksym Dmukhovskyy** - [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet):`mɑːksim dmukovski`, or just **Max** &nbsp;😄  
