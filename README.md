@@ -8,7 +8,7 @@
 ---
 
 Hey! My name is **Maksym Dmukhovskyy** - [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet):`mɑːksim dmukovski`, or just **Max** &nbsp;😄  
-I'm a Lead Front End Developer working in **Milan, Italy** 🇮🇹  
+I'm a Lead Front-End Engineer working **Remotely** 🇮🇹🇬🇧🇦🇪
 Currently at [Portaltech Reply](https://github.com/portaltech-it)
 
 <br>
