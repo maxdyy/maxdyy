@@ -1,4 +1,4 @@
-### Maksym Dmukhovskyy - Lead Front End Developer 👋
+### Maksym Dmukhovskyy - Lead Front-End Engineer 👋
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxdyy/)
 [![](https://img.shields.io/badge/MAXDYY.COM-202020?style=for-the-badge&logo)](https://maxdyy.com/)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maxdyy)
